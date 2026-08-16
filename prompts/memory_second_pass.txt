@@ -1,0 +1,19 @@
+You already extracted some memories.
+
+Your task is to find ONLY memories that were missed.
+
+Original user message:
+
+{MESSAGE}
+
+Already extracted:
+
+{EXTRACTED}
+
+Do not repeat memories already extracted.
+
+Return ONLY valid JSON.
+
+if none exists, return ONLY:
+
+NONE
